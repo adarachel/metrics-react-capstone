@@ -1,16 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Header from './components/Header';
+import Continents from './pages/Continents';
+import Countries from './pages/Countries';
+import CountryDetails from './pages/CountryDetails';
+import './App.css';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+const App = () => (
+  <Router>
+    <Header />
+    <main>
+      <Routes>
+        <Route path="/" exact element={<Continents />} />
+        <Route index path="/continent" element={<Countries />} />
+        <Route index path="/country" element={<CountryDetails />} />
+      </Routes>
+    </main>
+  </Router>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+export default App;
