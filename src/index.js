@@ -1,21 +1,15 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Continents from './pages/Continents';
-import Countries from './pages/Countries';
-import CountryDetails from './pages/CountryDetails';
-import './App.css';
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { Provider } from 'react-redux';
+import store from './redux/configureStore';
+import App from './App';
+import './index.css';
 
-const App = () => (
-  <Router>
-    <Header />
-    <main>
-      <Routes>
-        <Route path="/" exact element={<Continents />} />
-        <Route index path="/continent" element={<Countries />} />
-        <Route index path="/country" element={<CountryDetails />} />
-      </Routes>
-    </main>
-  </Router>
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <Provider store={store}>
+      <App />
+    </Provider>
+  </React.StrictMode>,
 );
-
-export default App;
