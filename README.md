@@ -17,6 +17,8 @@
   - [Usage](#usage)
   - [Run Tests](#runtests)
   - [Live](#live)
+  - [Loom Video](#loom)
+  - [Screenshots](#screenshots)
 
 - [👥 Authors](#authors)
 - [🔭 Future Features](#features)
@@ -43,6 +45,16 @@
 - Apply React best practices and language style guides in code
 - Use store, actions and reducers in React
 - Perform a code review for a team member
+
+### Live <a name="live"></a>
+
+- Live Link: [adarachelmetricswebapp.com](https://github.com/adarachel)
+
+### Loom Video Link <a name="loom"></a>
+
+- Loom Video Link: [LOOMVIDEO](https://github.com/adarachel)
+
+### Screenshots <a name="screenshots"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -109,11 +121,7 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-### Live <a name="live"></a>
-
-- This page is yet to be deployed
-
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 ### 👤 Ada Rachel
 
