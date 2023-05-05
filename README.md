@@ -160,7 +160,11 @@ If you like this project, please consider a star on GitHub!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the opportunity to dream big.
+I would like to thank:
+- Microverse for the opportunity to dream big.
+- [Nelson Sakwa at Behance](https://www.behance.net/sakwadesignstudio) for creating this beautiful [App design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+- [Alejandro Matos](https://gitlab.com/amatos) for [REST Countries API](https://restcountries.com/#license).
+- [OpenWeather](https://openweathermap.org) for [Air Pollution API](https://openweathermap.org/api/air-pollution)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
