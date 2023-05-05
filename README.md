@@ -56,6 +56,10 @@
 
 ### Screenshots <a name="screenshots"></a>
 
+![phonescreenshot3](https://user-images.githubusercontent.com/108772486/236460645-638270de-4c87-45a6-aa4c-a229f5f203db.png)
+![phonescreenshot2](https://user-images.githubusercontent.com/108772486/236460652-f0ca5f49-9f0b-453b-a329-81a9c904bc6a.png)
+![phonescreenshot1](https://user-images.githubusercontent.com/108772486/236460657-56f30857-d8dd-4247-983d-5d85a7de4ca0.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack
