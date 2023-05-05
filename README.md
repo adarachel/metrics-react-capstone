@@ -48,7 +48,7 @@
 
 ### Live <a name="live"></a>
 
-- Live Link: [adarachelmetricswebapp.com](https://github.com/adarachel)
+- Live Link: [adarachelmetricswebapp.netlify.app](https://adarachelmetricswebapp.netlify.app/)
 
 ### Loom Video Link <a name="loom"></a>
 
