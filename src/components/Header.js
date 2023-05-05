@@ -1,10 +1,10 @@
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { useNavigate, useLocation } from 'react-router-dom';
-import './Header.css';
 import { IoIosArrowBack, IoIosSettings } from 'react-icons/io';
 import { BsMicFill } from 'react-icons/bs';
 import { updateTitle } from '../redux/Title/titleReducer';
+import './Header.css';
 
 const Header = () => {
   // Initialize variables and hooks.
