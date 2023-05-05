@@ -52,7 +52,7 @@
 
 ### Loom Video Link <a name="loom"></a>
 
-- Loom Video Link: [LOOMVIDEO](https://github.com/adarachel)
+- Loom Video Link: [adarachel's loom video](https://www.loom.com/share/cdb405d8c2234f37a82a2f8a7e1c3d48)
 
 ### Screenshots <a name="screenshots"></a>
 
